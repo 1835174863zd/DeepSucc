@@ -1,0 +1,6 @@
+TN: 2450 FP: 527 FN: 75 TP: 179
+Accuracy: 0.8136799752398638
+Sensitivity: 0.7047244094488189
+Specificity: 0.8229761504870675
+Matthews correlation coefficient: 0.3436851669356255
+ROC Curves and Area Under the Curve (AUC): 0.8459482013018444
