@@ -1,0 +1,8 @@
+[[2734  243]
+ [ 230   24]]
+TN: 2734 FP: 243 FN: 230 TP: 24
+Accuracy: 0.8536056948313215
+Sensitivity: 0.09448818897637795
+Specificity: 0.918374202216997
+Matthews correlation coefficient: 0.012572836249177178
+ROC Curves and Area Under the Curve (AUC): 0.5064311955966875
